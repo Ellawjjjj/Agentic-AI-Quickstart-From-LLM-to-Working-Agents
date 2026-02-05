@@ -1,4 +1,4 @@
-# Agentic-AI-Quickstart
+# Agentic AI Quickstart
 <p align="center">
   <img src="https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/Agentic%20Workflow.png?raw=1"
        alt="Agentic AI framework comparison matrix"
