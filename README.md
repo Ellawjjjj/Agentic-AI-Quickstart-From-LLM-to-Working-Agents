@@ -76,14 +76,7 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 - Best for: quickly building and debugging agentic apps with built-in observability  
 - Link: https://openai.github.io/openai-agents-python/?utm_source=chatgpt.com
 
----
 ## Framework Comparison (at a glance)
 
-<p align="center">
-  <img src="assets/framework-comparison.png" alt="Agentic AI framework comparison matrix" width="900" />
-</p>
-
-<p align="center"><em>
-Figure: Quick comparison of agentic AI frameworks by workflow orchestration, state management, schema validation, human-in-the-loop, and multi-agent support.
-</em></p>
+![Agentic AI framework comparison matrix](assets/framework-comparison.png)
 
