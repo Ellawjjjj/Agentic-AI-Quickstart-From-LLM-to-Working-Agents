@@ -78,6 +78,6 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 
 ## Framework Comparison (at a glance)
 
-![Agentic AI framework comparison matrix](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/framework-comparison.png)
+![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png))
 
 
