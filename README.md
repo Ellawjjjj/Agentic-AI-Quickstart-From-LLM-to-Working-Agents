@@ -9,6 +9,7 @@ This repository is a **quickstart knowledge base** for Agentic AI. The goal is t
        alt="Agentic AI framework comparison matrix"
        width="650" />
 </p>
+
 ## Suggested learning path
 **Beginner (1–2 hours)**
 1) Learn the basic concepts  
