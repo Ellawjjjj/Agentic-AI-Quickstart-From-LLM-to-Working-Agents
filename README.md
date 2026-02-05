@@ -82,9 +82,8 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 
 ---
 # Part II — Paper link
----
 
-## Paper Lists (Curated Repos)
+## Paper Lists 
 
 | Paper List / Repo Name | Link |
 |---|---|
