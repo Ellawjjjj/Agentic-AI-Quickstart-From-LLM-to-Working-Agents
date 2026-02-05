@@ -12,10 +12,15 @@ This repository is a **quickstart knowledge base** for Agentic AI. The goal is t
 3) Add one tool (search/retrieval/DB)  
 4) Add one safety layer (guardrails)  
 5) Add eval (observability)
+<p align="center">
+  <img src="https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/Agentic%20Workflow.png?raw=1"
+       alt="Agentic AI framework comparison matrix"
+       width="650" />
+</p>
 
 # Part I — Frameworks ✅
 Below is a curated list of frameworks/platforms that are useful for getting started quickly.
-![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/Agentic%20Workflow.png)
+
 ## Framework Comparison 
 ![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
 
