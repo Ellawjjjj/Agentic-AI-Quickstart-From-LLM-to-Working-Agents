@@ -100,6 +100,7 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 | Awesome Agentic Reasoning | https://github.com/weitianxin/Awesome-Agentic-Reasoning |
 | AI Agent Papers | https://github.com/masamasa59/ai-agent-papers |
 | Awesome Agent Papers | https://github.com/luo-junyu/Awesome-Agent-Papers |
-
+| LLM-Agent-Survey | (https://github.com/xinzhel/LLM-Agent-Survey) |
+| LLM-Agents-Papers | https://github.com/AGI-Edgerunners/LLM-Agents-Papers |
 
 
