@@ -15,6 +15,10 @@ This repository is a **quickstart knowledge base** for Agentic AI. The goal is t
 
 # Part I — Frameworks ✅
 Below is a curated list of frameworks/platforms that are useful for getting started quickly.
+
+## Framework Comparison 
+![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
+
 ## 1. Agentic AI Basics (Concepts)
 **Agentic AI Basics: Basic knowledge about Agentic AI**  
 - Purpose: a structured intro to what “agentic AI” means and how to think about planning, tools, and memory  
@@ -76,9 +80,6 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 - Best for: quickly building and debugging agentic apps with built-in observability  
 - Link: https://openai.github.io/openai-agents-python/?utm_source=chatgpt.com
 
-## Framework Comparison (at a glance)
-
-![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
 
 ---
 # Part II — Paper link
