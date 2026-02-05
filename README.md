@@ -85,10 +85,15 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 
 ## Paper Lists 
 
+---
+
+## Paper Lists (Curated Repos)
+
 | Paper List / Repo Name | Link |
 |---|---|
-| Awesome Agentic Reasoning | [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning) |
-| AI Agent Papers | [GitHub](https://github.com/masamasa59/ai-agent-papers) |
-| Awesome Agent Papers | [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) |
+| Awesome Agentic Reasoning | https://github.com/weitianxin/Awesome-Agentic-Reasoning |
+| AI Agent Papers | https://github.com/masamasa59/ai-agent-papers |
+| Awesome Agent Papers | https://github.com/luo-junyu/Awesome-Agent-Papers |
+
 
 
